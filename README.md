@@ -1,2 +1,2 @@
 # DNA-Sequencing-Classifier
-iNSPIRED BY KRISH NAIK
+## INSPIRED BY KRISH NAIK
